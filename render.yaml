@@ -1,5 +1,4 @@
 services:
-  # ── Dev Dashboard ─────────────────────────────────────────────────
   - type: web
     name: b2b-leads-dev
     runtime: python
@@ -12,15 +11,8 @@ services:
         value: 3.11.0
       - key: ENV
         value: dev
-      - key: GOOGLE_PLACES_API_KEY
-        sync: false
-      - key: COMPANIES_HOUSE_API_KEY
-        sync: false
-      - key: RENDER_API_KEY
-        sync: false
     autoDeploy: true
     
-  # ── Staging Dashboard ─────────────────────────────────────────────
   - type: web
     name: b2b-leads-staging
     runtime: python
@@ -33,10 +25,4 @@ services:
         value: 3.11.0
       - key: ENV
         value: staging
-      - key: GOOGLE_PLACES_API_KEY
-        sync: false
-      - key: COMPANIES_HOUSE_API_KEY
-        sync: false
-      - key: RENDER_API_KEY
-        sync: false
-    autoDeploy: false  # Manual approval required
+    autoDeploy: false
