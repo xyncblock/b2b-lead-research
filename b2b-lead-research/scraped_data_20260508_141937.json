@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-08T14:19:37.304902",
+  "query": "e-commerce stores UK",
+  "total": 13,
+  "with_emails": 5,
+  "stores": [
+    {
+      "source_api": "google_search",
+      "source_url": "https://startups.co.uk/websites/ecommerce/best-ecommerce-platforms-uk/",
+      "date_discovered": "2026-05-08T08:48:47.451331",
+      "country": "UK",
+      "business_name": "Top 6 Ecommerce Platforms In 2026: Which Should You Choose?",
+      "website_url": "https://startups.co.uk/websites/ecommerce/best-ecommerce-platforms-uk/",
+      "domain": "startups.co.uk",
+      "emails": [
+        "su100@startups.co.uk",
+        "commercial@startups.co.uk",
+        "hello@startups.co.uk"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://squareup.com/gb/en/online-store",
+      "date_discovered": "2026-05-08T08:48:49.947605",
+      "country": "UK",
+      "business_name": "Build a Free Online Store or eCommerce Website - Square",
+      "website_url": "https://squareup.com/gb/en/online-store",
+      "domain": "squareup.com",
+      "emails": [
+        "example@yourdomain.com",
+        "you@example.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ukwebhostreview.com/best-ecommerce-platform/",
+      "date_discovered": "2026-05-08T08:48:54.020438",
+      "country": "UK",
+      "business_name": "11 Best eCommerce Platforms UK in 2026 (+ Pros &amp; Cons)",
+      "website_url": "https://www.ukwebhostreview.com/best-ecommerce-platform/",
+      "domain": "ukwebhostreview.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://metricscart.com/insights/best-ecommerce-platforms-in-the-uk/",
+      "date_discovered": "2026-05-08T08:48:56.551807",
+      "country": "UK",
+      "business_name": "Top 10 Best E-Commerce Platforms in the UK for Shoppers",
+      "website_url": "https://metricscart.com/insights/best-ecommerce-platforms-in-the-uk/",
+      "domain": "metricscart.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://merchantmachine.co.uk/ecommerce-platforms/",
+      "date_discovered": "2026-05-08T08:49:00.321290",
+      "country": "UK",
+      "business_name": "21 Top Ecommerce Platforms For UK Businesses 2026 Comparison",
+      "website_url": "https://merchantmachine.co.uk/ecommerce-platforms/",
+      "domain": "merchantmachine.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ecommerce-gold.com/best-ecommerce-platforms-uk/",
+      "date_discovered": "2026-05-08T08:49:07.082629",
+      "country": "UK",
+      "business_name": "The 7 Best Ecommerce Platforms for Small UK Businesses (2026)",
+      "website_url": "https://www.ecommerce-gold.com/best-ecommerce-platforms-uk/",
+      "domain": "ecommerce-gold.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.worldfirst.com/uk/blog/marketplaces-platforms/best-ecommerce-platforms-for-small-businesses/",
+      "date_discovered": "2026-05-08T08:49:11.153126",
+      "country": "UK",
+      "business_name": "7 best e-commerce platforms for small businesses in UK [2026 Comparison]",
+      "website_url": "https://www.worldfirst.com/uk/blog/marketplaces-platforms/best-ecommerce-platforms-for-small-businesses/",
+      "domain": "worldfirst.com",
+      "emails": [
+        "clients@service.worldfirst.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://ecommerceguide.com/top/united-kingdom/",
+      "date_discovered": "2026-05-08T08:49:14.784852",
+      "country": "UK",
+      "business_name": "Top 20 Ecommerce Sites in United Kingdom (2026)",
+      "website_url": "https://ecommerceguide.com/top/united-kingdom/",
+      "domain": "ecommerceguide.com",
+      "emails": [
+        "hello@ecommerceguide.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ecommerceaccountants.co.uk/post/the-8-best-ecommerce-platforms-for-small-businesses-in-the-uk",
+      "date_discovered": "2026-05-08T08:49:19.038657",
+      "country": "UK",
+      "business_name": "The 8 Best Ecommerce Platforms for Small Businesses in the UK",
+      "website_url": "https://www.ecommerceaccountants.co.uk/post/the-8-best-ecommerce-platforms-for-small-businesses-in-the-uk",
+      "domain": "ecommerceaccountants.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.shopwired.co.uk/",
+      "date_discovered": "2026-05-08T08:49:22.939664",
+      "country": "UK",
+      "business_name": "UK Ecommerce Platform - ShopWired Is The Best Ecommerce Platform In The UK",
+      "website_url": "https://www.shopwired.co.uk/",
+      "domain": "shopwired.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.shopify.com/uk",
+      "date_discovered": "2026-05-08T08:49:29.896432",
+      "country": "UK",
+      "business_name": "Shopify: Your Commerce Platform to Sell Online &amp; In Person - Shopify UK",
+      "website_url": "https://www.shopify.com/uk",
+      "domain": "shopify.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ekm.com/",
+      "date_discovered": "2026-05-08T08:49:31.600897",
+      "country": "UK",
+      "business_name": "The UK&#x27;s Top Ecommerce Platform | EKM",
+      "website_url": "https://www.ekm.com/",
+      "domain": "ekm.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.trade.gov/country-commercial-guides/united-kingdom-ecommerce",
+      "date_discovered": "2026-05-08T08:49:34.700395",
+      "country": "UK",
+      "business_name": "United Kingdom - eCommerce - International Trade Administration",
+      "website_url": "https://www.trade.gov/country-commercial-guides/united-kingdom-ecommerce",
+      "domain": "trade.gov",
+      "emails": [
+        "icon-https@2x.png",
+        "icon-dot-gov@2x.png"
+      ]
+    }
+  ]
+}

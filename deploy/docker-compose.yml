@@ -1,0 +1,103 @@
+version: '3.8'
+
+services:
+  # ── Dev Environment ───────────────────────────────────────────────
+  dev-dashboard:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.dev
+    container_name: b2b-dev-dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - ..:/app
+      - dev-data:/app/data
+    environment:
+      - ENV=dev
+      - STREAMLIT_SERVER_PORT=8501
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+      - GOOGLE_PLACES_API_KEY=${GOOGLE_PLACES_API_KEY}
+      - COMPANIES_HOUSE_API_KEY=${COMPANIES_HOUSE_API_KEY}
+    networks:
+      - b2b-dev
+    restart: unless-stopped
+
+  dev-api:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.api
+    container_name: b2b-dev-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ..:/app
+      - dev-data:/app/data
+    environment:
+      - ENV=dev
+      - PORT=8000
+    networks:
+      - b2b-dev
+    restart: unless-stopped
+
+  # ── Staging Environment ───────────────────────────────────────────
+  staging-dashboard:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.staging
+    container_name: b2b-staging-dashboard
+    ports:
+      - "8502:8502"
+    volumes:
+      - staging-data:/app/data
+    environment:
+      - ENV=staging
+      - STREAMLIT_SERVER_PORT=8502
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+      - GOOGLE_PLACES_API_KEY=${GOOGLE_PLACES_API_KEY}
+      - COMPANIES_HOUSE_API_KEY=${COMPANIES_HOUSE_API_KEY}
+    networks:
+      - b2b-staging
+    restart: unless-stopped
+
+  staging-api:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.api
+    container_name: b2b-staging-api
+    ports:
+      - "8001:8000"
+    volumes:
+      - staging-data:/app/data
+    environment:
+      - ENV=staging
+      - PORT=8000
+    networks:
+      - b2b-staging
+    restart: unless-stopped
+
+  # ── Reverse Proxy ─────────────────────────────────────────────────
+  nginx:
+    image: nginx:alpine
+    container_name: b2b-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx-dev.conf:/etc/nginx/conf.d/dev.conf:ro
+      - ./nginx-staging.conf:/etc/nginx/conf.d/staging.conf:ro
+      - ./ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - dev-dashboard
+      - staging-dashboard
+    networks:
+      - b2b-dev
+      - b2b-staging
+    restart: unless-stopped
+
+volumes:
+  dev-data:
+  staging-data:
+
+networks:
+  b2b-dev:
+  b2b-staging:

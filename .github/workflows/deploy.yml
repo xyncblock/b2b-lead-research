@@ -1,0 +1,50 @@
+name: Deploy
+
+on:
+  push:
+    branches: [dev, staging]
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Environment to deploy'
+        required: true
+        default: 'dev'
+        type: choice
+        options:
+          - dev
+          - staging
+
+jobs:
+  deploy-dev:
+    if: github.ref == 'refs/heads/dev' || github.event.inputs.environment == 'dev'
+    runs-on: ubuntu-latest
+    environment:
+      name: dev
+      url: https://dev-b2b-leads.akzain.com
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Deploy to Dev Server
+        run: |
+          echo "Deploying to dev environment..."
+          # SSH into dev server and pull latest
+          # Dev auto-deploys on every push
+          
+  deploy-staging:
+    if: github.ref == 'refs/heads/staging' || github.event.inputs.environment == 'staging'
+    runs-on: ubuntu-latest
+    environment:
+      name: staging
+      url: https://staging-b2b-leads.akzain.com
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Await Manual Approval
+        run: |
+          echo "Staging deployment requires manual approval from Ak"
+          echo "Check Telegram for approval request"
+          
+      - name: Deploy to Staging Server
+        run: |
+          echo "Deploying to staging environment..."
+          # SSH into staging server and pull latest

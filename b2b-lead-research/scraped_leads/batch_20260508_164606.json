@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://www.just-eat.co.uk/",
+    "title": "Order Takeaway, Groceries, and Food Delivery | Just Eat",
+    "domain": "just-eat.co.uk",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:45:48.474600"
+  },
+  {
+    "url": "https://deliveroo.co.uk/",
+    "title": "Deliveroo - Food, Groceries, Pharmacy, Gifts &amp; More. Delivered In A Tap.",
+    "domain": "deliveroo.co.uk",
+    "emails": [
+      "hello@deliveroo.fr",
+      "deliveroosg@kroll.com",
+      "438fd54084e74e9a85dc25f8e0772763@o74967.ingest.us.sentry.io"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:45:50.639133"
+  },
+  {
+    "url": "https://www.ubereats.com/gb",
+    "title": "Uber Eats | Food delivery and takeaway | Order online from restaurants ...",
+    "domain": "ubereats.com",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:45:51.343488"
+  },
+  {
+    "url": "https://foodhub.co.uk/",
+    "title": "Order Food Online from Restaurants | Takeaway Food Delivery | Foodhub",
+    "domain": "foodhub.co.uk",
+    "emails": [
+      "hello@foodhub.co.uk"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:45:53.578330"
+  },
+  {
+    "url": "https://alleatapp.com/",
+    "title": "Order Takeaway Food Delivery Online in UK with All Eat | Find Top ...",
+    "domain": "alleatapp.com",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:45:54.427346"
+  },
+  {
+    "url": "https://www.swishr.co.uk/",
+    "title": "Swishr | Order Online from Your Favourite Local Restaurants and ...",
+    "domain": "swishr.co.uk",
+    "emails": [
+      "support@swishr.co.uk"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:45:56.757043"
+  },
+  {
+    "url": "https://www.supermeal.co.uk/",
+    "title": "Supermeal: Food Delivery &amp; Takeaways | Order Online in UK",
+    "domain": "supermeal.co.uk",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:45:59.849880"
+  },
+  {
+    "url": "https://grub24.co.uk/",
+    "title": "GRUB24 - Delivery from the best fast food and takeaways near you",
+    "domain": "grub24.co.uk",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:46:00.538705"
+  },
+  {
+    "url": "https://www.beelivery.com/",
+    "title": "Beelivery - 15-60 Minute Grocery Delivery Alcohol Delivery &amp; Food, Same ...",
+    "domain": "beelivery.com",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:46:03.819769"
+  },
+  {
+    "url": "https://www.doordash.com/en-GB/consumer/guest",
+    "title": "DoorDash Food Delivery",
+    "domain": "doordash.com",
+    "emails": [
+      "snapebt@doordash.com",
+      "favicon@2x.ico",
+      "49e03b70-088a-40f5-b80b-3e43acce6039@guest.doordash.com",
+      "f55609756bfb481c8ad0a180c8248883@o17585.ingest.us.sentry.io",
+      "referral-affiliates@doordash.com",
+      "deliverysupport@doordash.com",
+      "ddcatering@doordash.com"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:46:06.377470"
+  }
+]

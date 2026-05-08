@@ -1,0 +1,669 @@
+{
+  "date": "2026-05-08T15:57:09.244711",
+  "total_queries": 10,
+  "total_stores": 45,
+  "stores_with_emails": 25,
+  "stores": [
+    {
+      "source_api": "google_search",
+      "source_url": "https://startups.co.uk/websites/ecommerce/best-ecommerce-platforms-uk/",
+      "date_discovered": "2026-05-08T10:21:35.433207",
+      "country": "UK",
+      "business_name": "Top 6 Ecommerce Platforms In 2026: Which Should You Choose?",
+      "website_url": "https://startups.co.uk/websites/ecommerce/best-ecommerce-platforms-uk/",
+      "domain": "startups.co.uk",
+      "emails": [
+        "su100@startups.co.uk",
+        "commercial@startups.co.uk",
+        "hello@startups.co.uk"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://metricscart.com/insights/best-ecommerce-platforms-in-the-uk/",
+      "date_discovered": "2026-05-08T10:21:37.931219",
+      "country": "UK",
+      "business_name": "Top 10 Best E-Commerce Platforms in the UK for Shoppers",
+      "website_url": "https://metricscart.com/insights/best-ecommerce-platforms-in-the-uk/",
+      "domain": "metricscart.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://ecommerceguide.com/top/united-kingdom/",
+      "date_discovered": "2026-05-08T10:21:41.424685",
+      "country": "UK",
+      "business_name": "Top 20 Ecommerce Sites in United Kingdom (2026)",
+      "website_url": "https://ecommerceguide.com/top/united-kingdom/",
+      "domain": "ecommerceguide.com",
+      "emails": [
+        "hello@ecommerceguide.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.shopwired.co.uk/",
+      "date_discovered": "2026-05-08T10:21:44.958217",
+      "country": "UK",
+      "business_name": "UK Ecommerce Platform - ShopWired Is The Best Ecommerce Platform In The UK",
+      "website_url": "https://www.shopwired.co.uk/",
+      "domain": "shopwired.co.uk",
+      "emails": [
+        "hi@shopwired.co.uk"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.grigora.co/website-builder/online-store-uk/",
+      "date_discovered": "2026-05-08T10:21:47.139324",
+      "country": "UK",
+      "business_name": "Build an Online Store UK in Minutes | AI Builder",
+      "website_url": "https://www.grigora.co/website-builder/online-store-uk/",
+      "domain": "grigora.co",
+      "emails": [
+        "hello@grigora.co"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://merchantmachine.co.uk/ecommerce-platforms/",
+      "date_discovered": "2026-05-08T10:21:52.245207",
+      "country": "UK",
+      "business_name": "21 Top Ecommerce Platforms For UK Businesses 2026 Comparison",
+      "website_url": "https://merchantmachine.co.uk/ecommerce-platforms/",
+      "domain": "merchantmachine.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.worldfirst.com/uk/blog/marketplaces-platforms/best-ecommerce-platforms-for-small-businesses/",
+      "date_discovered": "2026-05-08T10:21:56.773702",
+      "country": "UK",
+      "business_name": "7 best e-commerce platforms for small businesses in UK [2026 Comparison]",
+      "website_url": "https://www.worldfirst.com/uk/blog/marketplaces-platforms/best-ecommerce-platforms-for-small-businesses/",
+      "domain": "worldfirst.com",
+      "emails": [
+        "clients@service.worldfirst.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ekm.com/",
+      "date_discovered": "2026-05-08T10:22:00.603952",
+      "country": "UK",
+      "business_name": "The UK&#x27;s Top Ecommerce Platform | EKM",
+      "website_url": "https://www.ekm.com/",
+      "domain": "ekm.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ukwebhostreview.com/best-ecommerce-platform/",
+      "date_discovered": "2026-05-08T10:22:04.020678",
+      "country": "UK",
+      "business_name": "11 Best eCommerce Platforms UK in 2026 (+ Pros &amp; Cons)",
+      "website_url": "https://www.ukwebhostreview.com/best-ecommerce-platform/",
+      "domain": "ukwebhostreview.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://squareup.com/gb/en/online-store",
+      "date_discovered": "2026-05-08T10:22:06.258233",
+      "country": "UK",
+      "business_name": "Build a Free Online Store or eCommerce Website - Square",
+      "website_url": "https://squareup.com/gb/en/online-store",
+      "domain": "squareup.com",
+      "emails": [
+        "you@example.com",
+        "example@yourdomain.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.shopline.com/uk",
+      "date_discovered": "2026-05-08T10:22:10.508983",
+      "country": "UK",
+      "business_name": "Launch Your E-Commerce Store in UK - Shopline",
+      "website_url": "https://www.shopline.com/uk",
+      "domain": "shopline.com",
+      "emails": [
+        "support@shopline.uk",
+        "3551ad0e0ac24af2af7f2dd684eb3b9d@sentry-new.myshopline.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.asos.com/",
+      "date_discovered": "2026-05-08T10:22:22.366597",
+      "country": "UK",
+      "business_name": "ASOS | Online Shopping for the Latest Clothes &amp; Fashion",
+      "website_url": "https://www.asos.com/",
+      "domain": "asos.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.glamourmagazine.co.uk/article/best-online-clothing-stores",
+      "date_discovered": "2026-05-08T10:22:38.891881",
+      "country": "UK",
+      "business_name": "30 Best Online Clothing Stores &amp; Brands UK 2026 | Glamour UK",
+      "website_url": "https://www.glamourmagazine.co.uk/article/best-online-clothing-stores",
+      "domain": "glamourmagazine.co.uk",
+      "emails": [
+        "help@newyorker.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.next.co.uk/",
+      "date_discovered": "2026-05-08T10:22:40.898670",
+      "country": "UK",
+      "business_name": "Next Official Site: Online Fashion, Kids Clothes &amp; Homeware",
+      "website_url": "https://www.next.co.uk/",
+      "domain": "next.co.uk",
+      "emails": [
+        "chantelle_binley@next.co.uk",
+        "press@next.co.uk",
+        "vicki_fogwill@next.co.uk"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.boohoo.com/",
+      "date_discovered": "2026-05-08T10:22:44.449330",
+      "country": "UK",
+      "business_name": "boohoo | Womens and Mens Clothes | Shop Online Fashion",
+      "website_url": "https://www.boohoo.com/",
+      "domain": "boohoo.com",
+      "emails": [
+        "customerservices@debenhams.co.uk",
+        "customerservices@boohoo.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.zara.com/uk/",
+      "date_discovered": "2026-05-08T10:22:48.191584",
+      "country": "UK",
+      "business_name": "ZARA United Kingdom | New Collection Online",
+      "website_url": "https://www.zara.com/uk/",
+      "domain": "zara.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.pinkboutique.co.uk/",
+      "date_discovered": "2026-05-08T10:22:50.191046",
+      "country": "UK",
+      "business_name": "Pink Boutique UK - Online Womens Fashion Clothing &amp; Party Dresses",
+      "website_url": "https://www.pinkboutique.co.uk/",
+      "domain": "pinkboutique.co.uk",
+      "emails": [
+        "ecom-swiper@11.css",
+        "ecom-swiper@11.0.5.js"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www2.hm.com/en_gb/index.html",
+      "date_discovered": "2026-05-08T10:22:51.639042",
+      "country": "UK",
+      "business_name": "H&amp;M | Online Fashion, Homeware &amp; Kids Clothes | H&amp;M GB",
+      "website_url": "https://www2.hm.com/en_gb/index.html",
+      "domain": "www2.hm.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.society19.com/uk/best-online-fashion-retailers/",
+      "date_discovered": "2026-05-08T10:22:53.472554",
+      "country": "UK",
+      "business_name": "The Top 15 Online Fashion Retailers In The UK - Society19",
+      "website_url": "https://www.society19.com/uk/best-online-fashion-retailers/",
+      "domain": "society19.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://chicpursuit.com/uk-online-clothing-stores/",
+      "date_discovered": "2026-05-08T10:22:57.706287",
+      "country": "UK",
+      "business_name": "25 Best UK Online Clothing Stores To Check Out",
+      "website_url": "https://chicpursuit.com/uk-online-clothing-stores/",
+      "domain": "chicpursuit.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.uniqlo.com/uk/en/",
+      "date_discovered": "2026-05-08T10:23:02.195796",
+      "country": "UK",
+      "business_name": "Women&#x27;s, Men&#x27;s &amp; Children&#x27;s Clothing | LifeWear | UNIQLO UK",
+      "website_url": "https://www.uniqlo.com/uk/en/",
+      "domain": "uniqlo.com",
+      "emails": [
+        "noreply@mail.fastretailling.com",
+        "emails@euenews.uniqlo.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.zalando.co.uk/",
+      "date_discovered": "2026-05-08T10:23:05.310534",
+      "country": "UK",
+      "business_name": "Shop Shoes, Fashion &amp; Accessories Online | Zalando UK",
+      "website_url": "https://www.zalando.co.uk/",
+      "domain": "zalando.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.argos.co.uk/",
+      "date_discovered": "2026-05-08T10:23:13.738706",
+      "country": "UK",
+      "business_name": "Argos | Order online today for fast home delivery",
+      "website_url": "https://www.argos.co.uk/",
+      "domain": "argos.co.uk",
+      "emails": [
+        "help@signvideo.co.uk"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.maplin.co.uk/",
+      "date_discovered": "2026-05-08T10:23:21.338422",
+      "country": "UK",
+      "business_name": "Maplin - UK Electronics, Batteries, Cables &amp; Accessories",
+      "website_url": "https://www.maplin.co.uk/",
+      "domain": "maplin.co.uk",
+      "emails": [
+        "260426_mobile_portablespeaker_800x@2x.jpg",
+        "fuj2036_ls_3_1_4500x@2x.jpg",
+        "img-1730904352973_1200x_5dbcfd22-ccbb-4b44-b127-7c1c4b3e3fc5_640x@2x.jpg",
+        "160426_mobile_kodakchamera_800x@2x.jpg",
+        "230426_desktop_portablespeaker_1200x@2x.jpg",
+        "clearance-banner-desk_1_1200x@2x.jpg",
+        "about_us_history-01-01_1045x_4c7eaf95-2995-4fad-ac7c-cdf1644b3c09_1045x@2x.jpg",
+        "clearance-banner-mob_1_800x@2x.jpg",
+        "230426_desk_fuji_800x@2x.jpg",
+        "map386_ls_0_2130x@2x.jpg",
+        "pexels-photo-4219862_1125x@2x.jpg",
+        "mao021_ls_1_2400x@2x.jpg",
+        "pexels-photo-698485_1194x@2x.jpg",
+        "120423_mobile_mps-2new_800x@2x.jpg",
+        "230426_mobile_fuji_1_800x@2x.jpg",
+        "map533_ls_2_2_808x@2x.jpg",
+        "160426_desk_kodakchamera_800x@2x.jpg"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.amazon.co.uk/",
+      "date_discovered": "2026-05-08T10:23:24.008155",
+      "country": "UK",
+      "business_name": "Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment &amp; more",
+      "website_url": "https://www.amazon.co.uk/",
+      "domain": "amazon.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.costco.co.uk/TVs-Electronics-Security/c/cos_1",
+      "date_discovered": "2026-05-08T10:23:28.705156",
+      "country": "UK",
+      "business_name": "Electronics Store UK | Online Electronic Shop | Costco UK",
+      "website_url": "https://www.costco.co.uk/TVs-Electronics-Security/c/cos_1",
+      "domain": "costco.co.uk",
+      "emails": [
+        "w5162phm@costco.co.jp",
+        "w05119-hearingaid@costco.com.au",
+        "opt501@costco.se",
+        "w05103-hearingaid@costco.com.au",
+        "moorabbin@costco.com.au",
+        "getafe-atencionalsocio@costco.es",
+        "w5175opt@costco.co.jp",
+        "w5188opt@costco.co.jp",
+        "w5166opt@costco.co.jp",
+        "w5156opt@costco.co.jp",
+        "w861opt@costco.co.jp",
+        "w5185phm@costco.co.jp",
+        "w5150opt@costco.co.jp",
+        "epping@costco.com.au",
+        "marsdenpark@costco.com.au",
+        "adelaide@costco.com.au",
+        "w05117-hearingaid@costco.com.au",
+        "w05108-hearingaid@costco.com.au",
+        "w861phm@costco.co.jp",
+        "w05102-hearingaid@costco.com.au",
+        "w5158opt@costco.co.jp",
+        "w5183opt@costco.co.jp",
+        "w5162opt@costco.co.jp",
+        "malmo@costco.se",
+        "w877phm@costco.co.jp",
+        "w5154phm@costco.co.jp",
+        "w5184opt@costco.co.jp",
+        "w5181phm@costco.co.jp",
+        "tyreorders502@costco.se",
+        "w876opt@costco.co.jp",
+        "w05106-hearingaid@costco.com.au",
+        "w5186phm@costco.co.jp",
+        "w5166phm@costco.co.jp",
+        "mulhouse@costco.fr",
+        "w860opt@costco.co.jp",
+        "w05403aid@costco.fr",
+        "w5168phm@costco.co.jp",
+        "w5170opt@costco.co.jp",
+        "zaragoza-atencionalsocio@costco.es",
+        "hearing502@costco.se",
+        "w05403ts@costco.fr",
+        "w5161opt@costco.co.jp",
+        "w5167phm@costco.co.jp",
+        "w862opt@costco.co.jp",
+        "w05402ts@costco.fr",
+        "w5165opt@costco.co.jp",
+        "w5155phm@costco.co.jp",
+        "w5157opt@costco.co.jp",
+        "w05401aid@costco.fr",
+        "w5181opt@costco.co.jp",
+        "w05105-hearingaid@costco.com.au",
+        "w05116-hearingaid@costco.com.au",
+        "w5153phm@costco.co.jp",
+        "w05118-hearingaid@costco.com.au",
+        "cafe502@costco.se",
+        "w5169opt@costco.co.jp",
+        "hearing501@costco.se",
+        "w5187phm@costco.co.jp",
+        "w5179opt@costco.co.jp",
+        "opt502@costco.se",
+        "ringwood@costco.com.au",
+        "lasrozas-atencionalsocio@costco.es",
+        "w862phm@costco.co.jp",
+        "w5186opt@costco.co.jp",
+        "member@costcokr.com",
+        "w05110-hearingaid@costco.com.au",
+        "perthairport@costco.com.au",
+        "w05402aid@costco.fr",
+        "w05107-hearingaid@costco.com.au",
+        "lakemacquarie@costco.com.au",
+        "w5178phm@costco.co.jp",
+        "w5159opt@costco.co.jp",
+        "w863phm@costco.co.jp",
+        "warehousememberservices@costco.co.uk",
+        "pontaultcombault@costco.fr",
+        "w864opt@costco.co.jp",
+        "w860phm@costco.co.jp",
+        "w865phm@costco.co.jp",
+        "w5187opt@costco.co.jp",
+        "w5161phm@costco.co.jp",
+        "w5155opt@costco.co.jp",
+        "w05104-hearingaid@costco.com.au",
+        "w5150phm@costco.co.jp",
+        "w5171opt@costco.co.jp",
+        "w05109-hearingaid@costco.com.au",
+        "w877opt@costco.co.jp",
+        "w5167opt@costco.co.jp",
+        "casuarina@costco.com.au",
+        "w5180phm@costco.co.jp",
+        "sevilla-atencionalsocio@costco.es",
+        "w5183phm@costco.co.jp",
+        "membership@costco.co.nz",
+        "tyreorders501@costco.se",
+        "w5179phm@costco.co",
+        "villebonsuryvette@costco.fr",
+        "w5184phm@costco.co.jp",
+        "auburn@costco.com.au",
+        "w876phm@costco.co.jp",
+        "canberra@costco.com.au",
+        "w05401ts@costco.fr",
+        "bilbao-atencionalsocio@costco.es",
+        "w5185opt@costco.co.jp",
+        "apotek.arninge@costco.se",
+        "w5153opt@costco.co.jp",
+        "w5175phm@costco.co.jp",
+        "w5169phm@costco.co.jp",
+        "cafe501@costco.se",
+        "w5165phm@costco.co.jp",
+        "w865opt@costco.co.jp",
+        "northlakes@costco.com.au",
+        "w5180opt@costco.co.jp",
+        "apotek.malmo@costco.se",
+        "w5188phm@costco.co.jp",
+        "w5154opt@costco.co.jp",
+        "w5178opt@costco.co.jp",
+        "w5160phm@costco.co.jp",
+        "w5160opt@costco.co.jp",
+        "w5168opt@costco.co.jp",
+        "w863opt@costco.co.jp",
+        "w5159phm@costco.co.jp",
+        "w05402opt@costco.fr",
+        "arninge@costco.se",
+        "w5158phm@costco.co.jp",
+        "w05111-hearingaid@costco.com.au",
+        "w05403opt@costco.fr",
+        "w5170phm@costco.co.jp",
+        "ardeer@costco.com.au",
+        "w05120-hearingaid@costco.com.au",
+        "w5157phm@costco.co.jp",
+        "w864phm@costco.co.jp",
+        "goldcoast@costco.com.au",
+        "crossroads@costco.com.au",
+        "w5156phm@costco.co.jp",
+        "w5171phm@costco.co.jp",
+        "ipswich@costco.com.au"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.jetkrate.com/best-online-shopping-sites-for-electronics-in-uk/",
+      "date_discovered": "2026-05-08T10:23:33.366672",
+      "country": "UK",
+      "business_name": "Best UK Online Electronics Stores for Overseas Shoppers",
+      "website_url": "https://www.jetkrate.com/best-online-shopping-sites-for-electronics-in-uk/",
+      "domain": "jetkrate.com",
+      "emails": [
+        "support@jetkrate.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.electricshop.com/",
+      "date_discovered": "2026-05-08T10:23:36.465277",
+      "country": "UK",
+      "business_name": "electricshop.com | Online Electrical Shop | Free UK Delivery",
+      "website_url": "https://www.electricshop.com/",
+      "domain": "electricshop.com",
+      "emails": [
+        "sales@electricshop.com",
+        "group_2x_dc179d08-f981-4937-b0ff-57318ef8e635_225x@2x.png"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ebay.co.uk/b/bn_7000259660",
+      "date_discovered": "2026-05-08T10:23:38.442690",
+      "country": "UK",
+      "business_name": "Electronics products for sale | eBay UK",
+      "website_url": "https://www.ebay.co.uk/b/bn_7000259660",
+      "domain": "ebay.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.dealmonday.co.uk/",
+      "date_discovered": "2026-05-08T10:23:41.077818",
+      "country": "UK",
+      "business_name": "Dealmonday | Official UK Store | Shop Now &amp; Save",
+      "website_url": "https://www.dealmonday.co.uk/",
+      "domain": "dealmonday.co.uk",
+      "emails": [
+        "noreply@dealmonday.co.uk"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.elekdirect.co.uk/",
+      "date_discovered": "2026-05-08T10:23:43.423866",
+      "country": "UK",
+      "business_name": "ElekDirect",
+      "website_url": "https://www.elekdirect.co.uk/",
+      "domain": "elekdirect.co.uk",
+      "emails": [
+        "sales@elekdirect.co.uk"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.johnlewis.com/electricals/c500001",
+      "date_discovered": "2026-05-08T10:23:53.216041",
+      "country": "UK",
+      "business_name": "Electricals | Laptops | LED TVs | Washing Machines | John Lewis",
+      "website_url": "https://www.johnlewis.com/electricals/c500001",
+      "domain": "johnlewis.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.mi.com/uk/",
+      "date_discovered": "2026-05-08T10:24:09.719638",
+      "country": "UK",
+      "business_name": "Xiaomi\u00ae UK | Buy Mobiles, Watches, Smart Electronics Online",
+      "website_url": "https://www.mi.com/uk/",
+      "domain": "mi.com",
+      "emails": [
+        "3af74c2d5d8b493f93abc405cb83371a@alisgp-sentry.d.xiaomi.net"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://joyofcreating.org/best-online-shopping-sites-uk",
+      "date_discovered": "2026-05-08T10:24:17.432726",
+      "country": "UK",
+      "business_name": "10 Best Online Shopping Sites in the UK (2026)",
+      "website_url": "https://joyofcreating.org/best-online-shopping-sites-uk",
+      "domain": "joyofcreating.org",
+      "emails": [
+        "hello@joyofcreating.org",
+        "your@email.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://ukdirect.net/stores-a-z/",
+      "date_discovered": "2026-05-08T10:24:21.876107",
+      "country": "UK",
+      "business_name": "Recommended UK Stores | Online Shops (A-Z) UK + Worldwide Delivery",
+      "website_url": "https://ukdirect.net/stores-a-z/",
+      "domain": "ukdirect.net",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://rackhams.com/",
+      "date_discovered": "2026-05-08T10:24:29.827279",
+      "country": "UK",
+      "business_name": "Rackhams | British Online Department Store",
+      "website_url": "https://rackhams.com/",
+      "domain": "rackhams.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.spocket.co/statistics/top-10-online-shopping-sites-in-uk",
+      "date_discovered": "2026-05-08T10:24:31.072230",
+      "country": "UK",
+      "business_name": "Best Online Shopping Sites UK for Every Shopper - Spocket",
+      "website_url": "https://www.spocket.co/statistics/top-10-online-shopping-sites-in-uk",
+      "domain": "spocket.co",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.sellthetrend.com/blog/uk-online-clothing-stores",
+      "date_discovered": "2026-05-08T10:25:00.775873",
+      "country": "UK",
+      "business_name": "Top 15 Online Shopping Sites in the UK for 2026",
+      "website_url": "https://www.sellthetrend.com/blog/uk-online-clothing-stores",
+      "domain": "sellthetrend.com",
+      "emails": [
+        "support@sellthetrend.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://ecommercenews.eu/top-10-online-stores-in-the-uk/",
+      "date_discovered": "2026-05-08T10:25:04.794462",
+      "country": "UK",
+      "business_name": "Top 10 online stores in the UK - Ecommerce News",
+      "website_url": "https://ecommercenews.eu/top-10-online-stores-in-the-uk/",
+      "domain": "ecommercenews.eu",
+      "emails": [
+        "your@email.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.very.co.uk/",
+      "date_discovered": "2026-05-08T10:25:07.619478",
+      "country": "UK",
+      "business_name": "Very | Womens, Mens and Kids Fashion, Furniture, Electricals &amp; More ...",
+      "website_url": "https://www.very.co.uk/",
+      "domain": "very.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.ecommerceaccountants.co.uk/post/the-8-best-ecommerce-platforms-for-small-businesses-in-the-uk",
+      "date_discovered": "2026-05-08T10:25:35.472443",
+      "country": "UK",
+      "business_name": "The 8 Best Ecommerce Platforms for Small Businesses in the UK",
+      "website_url": "https://www.ecommerceaccountants.co.uk/post/the-8-best-ecommerce-platforms-for-small-businesses-in-the-uk",
+      "domain": "ecommerceaccountants.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.f6s.com/companies/e-commerce/united-kingdom/co",
+      "date_discovered": "2026-05-08T10:25:44.760284",
+      "country": "UK",
+      "business_name": "100 Top E-commerce Companies in United Kingdom \u00b7 May 2026",
+      "website_url": "https://www.f6s.com/companies/e-commerce/united-kingdom/co",
+      "domain": "f6s.com",
+      "emails": [
+        "support@f6s.com"
+      ]
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.shopify.com/uk",
+      "date_discovered": "2026-05-08T10:25:49.302266",
+      "country": "UK",
+      "business_name": "Shopify: Your Commerce Platform to Sell Online &amp; In Person - Shopify UK",
+      "website_url": "https://www.shopify.com/uk",
+      "domain": "shopify.com",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://freewebstore.co.uk/",
+      "date_discovered": "2026-05-08T10:25:51.361089",
+      "country": "UK",
+      "business_name": "Create a Free Online Store or eCommerce Website",
+      "website_url": "https://freewebstore.co.uk/",
+      "domain": "freewebstore.co.uk",
+      "emails": []
+    },
+    {
+      "source_api": "google_search",
+      "source_url": "https://www.therange.co.uk/",
+      "date_discovered": "2026-05-08T10:26:21.975374",
+      "country": "UK",
+      "business_name": "The Range - Furniture, Bedding, Curtains, Crafts, DIY, Garden &amp; More",
+      "website_url": "https://www.therange.co.uk/",
+      "domain": "therange.co.uk",
+      "emails": [
+        "c9ef663a2b2aafcbef64c746e4ff93b4@o4506978163752960.ingest.us.sentry.io"
+      ]
+    }
+  ]
+}

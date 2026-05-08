@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://www.just-eat.co.uk/",
+    "title": "Order Takeaway, Groceries, and Food Delivery | Just Eat",
+    "domain": "just-eat.co.uk",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:31.455401"
+  },
+  {
+    "url": "https://deliveroo.co.uk/",
+    "title": "Deliveroo - Food, Groceries, Pharmacy, Gifts &amp; More. Delivered In A Tap.",
+    "domain": "deliveroo.co.uk",
+    "emails": [
+      "hello@deliveroo.fr",
+      "deliveroosg@kroll.com",
+      "438fd54084e74e9a85dc25f8e0772763@o74967.ingest.us.sentry.io"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:33.653629"
+  },
+  {
+    "url": "https://www.ubereats.com/gb",
+    "title": "Uber Eats | Food delivery and takeaway | Order online from restaurants ...",
+    "domain": "ubereats.com",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:34.409143"
+  },
+  {
+    "url": "https://foodhub.co.uk/",
+    "title": "Order Food Online from Restaurants | Takeaway Food Delivery | Foodhub",
+    "domain": "foodhub.co.uk",
+    "emails": [
+      "hello@foodhub.co.uk"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:37.945088"
+  },
+  {
+    "url": "https://www.ocado.com/",
+    "title": "Online Food Shopping &amp; Grocery Delivery | Ocado",
+    "domain": "ocado.com",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:39.572837"
+  },
+  {
+    "url": "https://www.doordash.com/en-GB/consumer/guest",
+    "title": "DoorDash Food Delivery",
+    "domain": "doordash.com",
+    "emails": [
+      "823f2ab9-d5e3-4e5e-b764-c587830470a0@guest.doordash.com",
+      "snapebt@doordash.com",
+      "referral-affiliates@doordash.com",
+      "f55609756bfb481c8ad0a180c8248883@o17585.ingest.us.sentry.io",
+      "ddcatering@doordash.com",
+      "deliverysupport@doordash.com",
+      "favicon@2x.ico"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:42.586323"
+  },
+  {
+    "url": "https://www.britsuperstore.com/",
+    "title": "Britsuperstore - Buy British food online delivered worldwide",
+    "domain": "britsuperstore.com",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:49.676649"
+  },
+  {
+    "url": "https://www.tesco.com/shop/en-GB/landing/groceries",
+    "title": "Online food shopping and grocery delivery - Tesco Groceries",
+    "domain": "tesco.com",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:50.987964"
+  },
+  {
+    "url": "https://www.gousto.co.uk/",
+    "title": "Recipe Boxes | Get Fresh Food &amp; Recipes Delivered | Gousto",
+    "domain": "gousto.co.uk",
+    "emails": [],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:54.526584"
+  },
+  {
+    "url": "https://www.abelandcole.co.uk/",
+    "title": "Organic food delivery. Organic vegetable boxes, fruit, meat &amp; more ...",
+    "domain": "abelandcole.co.uk",
+    "emails": [
+      "organics@abelandcole.co.uk"
+    ],
+    "keyword": "UK food delivery website",
+    "scraped_at": "2026-05-08T16:06:56.306021"
+  }
+]
